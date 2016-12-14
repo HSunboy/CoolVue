@@ -1,1 +1,8 @@
-test
+初始化：
+	1.clone项目到本地文件夹
+	2.打开命令行
+	3.进入文件夹路径
+	4.输入 （sudo）npm install
+	............waiting.............
+	5.输入 （sudo）npm run dev；
+	6.打开浏览器,输入localhost:3000/app/ 查看效果
